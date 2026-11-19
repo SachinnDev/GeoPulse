@@ -434,8 +434,4 @@ GeoPulse is a backend-focused portfolio project demonstrating:
 - Real-time communication using Socket.IO
 - Geospatial querying and API performance testing
 
-It is a prototype and has not been validated under production-scale traffic.
-
----
-
 **Built with Node.js, MongoDB, Redis, H3, Socket.IO, and React.**
